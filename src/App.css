@@ -1,0 +1,12 @@
+.App {
+    background-color: black;
+    max-width: 100vh;
+    max-height: 100vh;
+}
+
+h1,
+p,
+h2,
+h3 {
+    color: white;
+}

@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
+import MainScreen from './views/MainScreen';
 
 function App() {
   return (
-    <div className="App">
-
+    <div className="App h-screen w-screen">
+      <MainScreen />
     </div>
   );
 }
